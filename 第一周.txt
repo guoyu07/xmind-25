@@ -1,0 +1,12 @@
+知识点
+1.margin，padding
+margin表示盒子模型的外边距，padding表示盒子模型的内边距（补白）
+
+2.position:absolute，relative
+
+
+3.锚点
+
+
+
+
